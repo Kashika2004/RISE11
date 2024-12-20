@@ -1,0 +1,25 @@
+/* .file-upload {
+    margin: 10px 0;
+  }
+  
+  .file-upload input {
+    padding: 5px;
+  }
+   */
+
+
+   .file-upload {
+    margin: 10px 0;
+  }
+  
+  .file-upload input {
+    padding: 5px;
+  }
+  
+  .file-name {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
